@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Rima Bnt Mohammad AlNamlan</h1>
+<h1 align="center"> Rima Bnt Mohammad AlNamlan</h1>
 <h3 align="center">Computer science student at King Khalid University , i shared here some of my codes written in different languages</h3>
 
 <h3 align="left">Connect with me:</h3>
